@@ -1,0 +1,6 @@
+{
+  "name": "Urbox POSM Warehouse",
+  "description": "Hệ thống quản lý kho vật tư và POSM thông minh dành cho doanh nghiệp Urbox",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
